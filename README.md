@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o João Victor</h1>
+<h1 align="center">Sou João Victor</h1>
 <h3 align="center">💻 Desenvolvedor Back-End | Python & Django</h3>
 
 <p align="center">
