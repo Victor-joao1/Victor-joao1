@@ -15,21 +15,22 @@
 Trabalho principalmente com **Python e Django**, mas também tenho experiência com:
 
 - 🔗 APIs REST
-- 🧠 Flask
+- 🚀 FastAPI
 - 🧰 Versionamento com Git
 - 🗃️ Bancos de dados relacionais (PostgreSQL, MySQL)
 - 🌐 HTML5 e CSS3
 
-Atualmente, estou me aprofundando no ecossistema Django e buscando aplicar meu conhecimento em **projetos reais e desafiadores**.  
-Tenho como meta profissional **crescer como desenvolvedor** e contribuir com **soluções inovadoras** para o mercado.
+Atualmente, estou me aprofundando no ecossistema FastAPI e buscando aplicar meu conhecimento em **projetos reais e desafiadores**.  
+Tenho como meta profissional **crescer como desenvolvedor Back-end** e contribuir com **soluções inovadoras** para o mercado.
 
 ---
 
 🚀 **Projetos em Destaque**
 
-- 🌐 Websites responsivos com back-end integrado em Python/Django
-- ⚙️ Scripts e soluções para automação de tarefas e aumento de produtividade
-- 🔐 Aplicações com autenticação, CRUD, consumo de APIs externas e muito mais
+- 💻 boilerplate de SaaS reutilizável, com autenticação, agendamentos e notificações. 
+- 🌐 Websites responsivos com back-end integrado em Python/Django.
+- ⚙️ Scripts e soluções para automação de tarefas e aumento de produtividade.
+- 🔐 Aplicações com autenticação, CRUD, consumo de APIs externas.
 
 > 📌 Confira meus repositórios abaixo — todos contam com código organizado, documentação e boas práticas.
 
