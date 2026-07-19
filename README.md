@@ -16,6 +16,7 @@ Trabalho principalmente com **Python e Django**, mas também tenho experiência 
 
 - 🔗 APIs REST
 - 🚀 FastAPI
+- 🐋 Docker
 - 🧰 Versionamento com Git
 - 🗃️ Bancos de dados relacionais (PostgreSQL, MySQL)
 - 🌐 HTML5 e CSS3
@@ -53,7 +54,7 @@ Curso: Análise e Desenvolvimento de Sistemas
 🛠️ **Tech Stack**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,postgres,mysql,git,html,css,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,git,html,css,vscode,docker,linux" />
 </p>
 
 
